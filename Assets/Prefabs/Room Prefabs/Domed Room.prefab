@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 4189463074037601922}
   - component: {fileID: 4189463074037601923}
   - component: {fileID: 4189463074037601924}
-  - component: {fileID: 4189463074037601925}
   - component: {fileID: 4189463074037601926}
+  - component: {fileID: 6440163457179798293}
   m_Layer: 0
   m_Name: Outer Walls
   m_TagString: Untagged
@@ -83,19 +83,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!135 &4189463074037601925
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4189463074037601927}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &4189463074037601926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5789,6 +5776,20 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!64 &6440163457179798293
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4189463074037601927}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1 &4189463074146523173
 GameObject:
   m_ObjectHideFlags: 0
@@ -5800,8 +5801,8 @@ GameObject:
   - component: {fileID: 4189463074146523168}
   - component: {fileID: 4189463074146523169}
   - component: {fileID: 4189463074146523170}
-  - component: {fileID: 4189463074146523171}
   - component: {fileID: 4189463074146523172}
+  - component: {fileID: 2689075628966080044}
   m_Layer: 0
   m_Name: Inner Walls
   m_TagString: Untagged
@@ -5872,19 +5873,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!135 &4189463074146523171
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4189463074146523173}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &4189463074146523172
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11578,6 +11566,20 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!64 &2689075628966080044
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4189463074146523173}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1 &6089356178090082383
 GameObject:
   m_ObjectHideFlags: 0
