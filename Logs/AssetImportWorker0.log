@@ -1553,3 +1553,746 @@ System memory in use after: 84.2 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2278.
 Total: 3.466200 ms (FindLiveObjects: 0.185300 ms CreateObjectMapping: 0.063400 ms MarkObjects: 3.120200 ms  DeleteObjects: 0.095900 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 744.475276 seconds.
+  path: Assets/Prefabs/Theatre Prefabs
+  artifactKey: Guid(ba4c830d9280b6a4cad542b205d9c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs using Guid(ba4c830d9280b6a4cad542b205d9c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1047fa4a513842b3234eb11dad09419') in 0.010311 seconds
+  Import took 0.013803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076986 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Blood Packet.prefab
+  artifactKey: Guid(5a7891f6c224ef44aa725893ca14df04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Blood Packet.prefab using Guid(5a7891f6c224ef44aa725893ca14df04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345b8d784d1d1017812d70c0c3fa5104') in 0.043523 seconds
+  Import took 0.047982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Bonnet.prefab
+  artifactKey: Guid(544a8981f6e1a72498f25dca59f77a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Bonnet.prefab using Guid(544a8981f6e1a72498f25dca59f77a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2932f83d70d61828952a718b7a15c499') in 0.017921 seconds
+  Import took 0.022711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Blood Streamer.prefab
+  artifactKey: Guid(b71be87060525804ebc3c628f43c3bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Blood Streamer.prefab using Guid(b71be87060525804ebc3c628f43c3bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2946d1567cf988ed4578c570a88abb4a') in 0.011971 seconds
+  Import took 0.015771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab
+  artifactKey: Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab using Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c32ba9f0aeba057e1677fd09064a99b') in 0.090232 seconds
+  Import took 0.093820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.304242 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Displays
+  artifactKey: Guid(01da2f4c4d35d2b4da141c3d665ebe8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Displays using Guid(01da2f4c4d35d2b4da141c3d665ebe8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25bcf1d29974f28d2fe1ba4029242415') in 0.008495 seconds
+  Import took 0.012426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089323 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Displays/Blood Packet Display.prefab
+  artifactKey: Guid(610edeb7dbc04ba4a989b70d248ad3e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Displays/Blood Packet Display.prefab using Guid(610edeb7dbc04ba4a989b70d248ad3e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '669681b4b5212cca0ce0a233b99cb9e6') in 0.021943 seconds
+  Import took 0.025141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Displays/Pendant Display.prefab
+  artifactKey: Guid(7287146d7e081334eb285d074dfb5780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Displays/Pendant Display.prefab using Guid(7287146d7e081334eb285d074dfb5780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12515b02608498894c26daccb2f4707') in 0.086413 seconds
+  Import took 0.090301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Displays/Bonnet Display.prefab
+  artifactKey: Guid(b71ac6e2eebe81f4585f2488ea81a75b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Displays/Bonnet Display.prefab using Guid(b71ac6e2eebe81f4585f2488ea81a75b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a28f6ab0e7fedb9295c756605cf5efe4') in 0.018008 seconds
+  Import took 0.021434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.492709 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts
+  artifactKey: Guid(ab9e2c4f0af183e42a3dfdbdf7ceaf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts using Guid(ab9e2c4f0af183e42a3dfdbdf7ceaf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f939ccca0fb14ed2ff1819c559d5e86') in 0.008155 seconds
+  Import took 0.012259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.374662 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays
+  artifactKey: Guid(ddd724fc6dba7ab458ac61a4788ed945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays using Guid(ddd724fc6dba7ab458ac61a4788ed945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f254e890f0203764eeb415ee176c2a') in 0.003063 seconds
+  Import took 0.007684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056504 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Choir Display.prefab
+  artifactKey: Guid(2d056f3065fe6974ea27608f3f081c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Choir Display.prefab using Guid(2d056f3065fe6974ea27608f3f081c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4400b7db64cf770e7ed992a18e2dfdb') in 0.016147 seconds
+  Import took 0.020334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4eb4907bc50e372d4c8f25aa914eb0b') in 0.259831 seconds
+  Import took 0.266747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Flute Display.prefab
+  artifactKey: Guid(8ec9bf7641b98a043b4f6ee138edd704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Flute Display.prefab using Guid(8ec9bf7641b98a043b4f6ee138edd704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f44b795bf9e60781b0088e28e367c7c') in 0.345077 seconds
+  Import took 0.348944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.050495 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Black Key.prefab
+  artifactKey: Guid(7e1bb4964b8be1b439814204dc099625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Black Key.prefab using Guid(7e1bb4964b8be1b439814204dc099625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69496d80b1e623069f9600a02b952d61') in 0.027138 seconds
+  Import took 0.031100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Keyboard.prefab
+  artifactKey: Guid(bbf46cebb3b0c0746ae162d4db481f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Keyboard.prefab using Guid(bbf46cebb3b0c0746ae162d4db481f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acb1d7315edeb2671c24cffc561218f3') in 0.024541 seconds
+  Import took 0.029323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Hammer.prefab
+  artifactKey: Guid(023999c57c4ee284fb395d430447510d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Hammer.prefab using Guid(023999c57c4ee284fb395d430447510d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e8286b88e577a15178c1173c110c2d') in 0.018553 seconds
+  Import took 0.022654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Hammers.prefab
+  artifactKey: Guid(dbc134f0fef8bd64c99cc8623dfcf7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Hammers.prefab using Guid(dbc134f0fef8bd64c99cc8623dfcf7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ed235e05351eb281c91986efc82ca7') in 0.057653 seconds
+  Import took 0.063542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Piano Body.prefab
+  artifactKey: Guid(b81565ebbc0575643aa30074a7328e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Piano Body.prefab using Guid(b81565ebbc0575643aa30074a7328e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79ba6c2edbb7cbcca8b69e0d28d685e') in 0.073966 seconds
+  Import took 0.078225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/White Key.prefab
+  artifactKey: Guid(8a00ddb2742b64d4bba2e54790593180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/White Key.prefab using Guid(8a00ddb2742b64d4bba2e54790593180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ecdb8810a02a1ee6c07517254f7636') in 0.013184 seconds
+  Import took 0.016623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/White Keys.prefab
+  artifactKey: Guid(801e1f987f8faa6439f0dd61685536d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/White Keys.prefab using Guid(801e1f987f8faa6439f0dd61685536d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b44c1d664e4ed7633356667471c65b') in 0.019047 seconds
+  Import took 0.023872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Black Keys 1.prefab
+  artifactKey: Guid(0ed004826c9932b41b6ed78fb6d3a78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Black Keys 1.prefab using Guid(0ed004826c9932b41b6ed78fb6d3a78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f48ae7b0aae2ad36cd0f0744f92460') in 0.018810 seconds
+  Import took 0.023462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab
+  artifactKey: Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab using Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4209e1b7d610bd2520065744e8e2415f') in 0.167386 seconds
+  Import took 0.172925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.166029 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab
+  artifactKey: Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab using Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17399bc8919047ef5e9dbbcd3c47aa41') in 0.169597 seconds
+  Import took 0.176444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.122661 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab
+  artifactKey: Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab using Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903ab2f8956a0502c94b22c760996fba') in 0.174611 seconds
+  Import took 0.180878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.272945 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab
+  artifactKey: Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab using Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a8826a3b5318503b1ef76b2136a3101') in 0.175742 seconds
+  Import took 0.181295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.177060 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab
+  artifactKey: Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab using Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b678fb504610a4bb70e88fac966a509') in 0.195314 seconds
+  Import took 0.201852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 239.756884 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab
+  artifactKey: Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab using Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd4891f14576fa11400b96ad1d208f7') in 0.182164 seconds
+  Import took 0.189530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.996419 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab
+  artifactKey: Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab using Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70c4ac475443fcfb9393291ecf017342') in 0.184340 seconds
+  Import took 0.192298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 117.899599 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab
+  artifactKey: Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab using Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855e632117a283b63baaacd3ffddc07d') in 0.164684 seconds
+  Import took 0.171236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.714494 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab
+  artifactKey: Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab using Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40516c1363aca1c7f57d8e66e6f7b647') in 0.209363 seconds
+  Import took 0.216497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.446868 seconds.
+  path: Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab
+  artifactKey: Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Piano Parts/Grand Piano.prefab using Guid(1a2610bd23977dd4b9c6be8023d45e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30bc34b8030f2aac2c7bcf227af15405') in 0.165814 seconds
+  Import took 0.171861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.553973 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44b6186548c9c75b7dea209cf06e25af') in 0.153463 seconds
+  Import took 0.158767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 273.070818 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e24f9ae3f3437810396dbaba32fb4f3') in 0.200822 seconds
+  Import took 0.207364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 242.044308 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed0a3cdb3435ba49543dea48a00014a9') in 0.194856 seconds
+  Import took 0.205048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 258.561843 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '753d0afeb564c9cd80643ec6f52e8afe') in 0.196795 seconds
+  Import took 0.204297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 251.513165 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09e76ffabeee3bb49c935375452c6058') in 0.199523 seconds
+  Import took 0.206828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 268.500670 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2402a34f5ebf2cf922cb83db589dcac3') in 0.211198 seconds
+  Import took 0.220232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 732.676693 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f0d94de68e91391821039d1c341c10') in 0.168524 seconds
+  Import took 0.175896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 296.212607 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09284adc6739307617e0b48cc15b282') in 0.180203 seconds
+  Import took 0.187546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 293.143507 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99fbe369758e0f87d99c1a9d68995502') in 0.192106 seconds
+  Import took 0.201079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 284.684039 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95ab0d6f3d53814d0805cd7869b481d7') in 0.231246 seconds
+  Import took 0.238579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 295.994294 seconds.
+  path: Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab
+  artifactKey: Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Music Prefabs/Displays/Piano Display.prefab using Guid(82b33965a269fee4b80792c023daa0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8340d32cc9f589a5800ca2a14516bb4f') in 0.193504 seconds
+  Import took 0.202852 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001073 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.026 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1696 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.0 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 3.137100 ms (FindLiveObjects: 0.373900 ms CreateObjectMapping: 0.117800 ms MarkObjects: 2.522600 ms  DeleteObjects: 0.121600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 840.426816 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab
+  artifactKey: Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab using Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9697660b89e67cfe095d1879fd2c754f') in 0.110464 seconds
+  Import took 0.115102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090979 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab
+  artifactKey: Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab using Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9697660b89e67cfe095d1879fd2c754f') in 0.099994 seconds
+  Import took 0.105176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.495079 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab
+  artifactKey: Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab using Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d84e81363b6d850106d134a27dc3159') in 0.105145 seconds
+  Import took 0.109920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.097540 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab
+  artifactKey: Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab using Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96998f00d6c5f259c466deaef8ecbde9') in 0.100123 seconds
+  Import took 0.104551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.352392 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab
+  artifactKey: Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab using Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be113474d2adea9e1c00617cd9e5e200') in 0.082188 seconds
+  Import took 0.086791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.954645 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab
+  artifactKey: Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab using Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6123d17db0749c7bcec619ca027be5d') in 0.103269 seconds
+  Import took 0.108092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.459724 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab
+  artifactKey: Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab using Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adcb95ef26c3338e4b5e503bd5217937') in 0.101886 seconds
+  Import took 0.105450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.609631 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab
+  artifactKey: Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Stardust Pendant.prefab using Guid(1d35b37509e3dd245b5bd7dde9f737ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219780112c44c174863ef004d9bc617b') in 0.093671 seconds
+  Import took 0.098359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.845897 seconds.
+  path: Assets/Audio
+  artifactKey: Guid(66a8a56c56c47b6459f025233da05b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(66a8a56c56c47b6459f025233da05b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '615611dd065d9e85c86ca602164beb5f') in 0.009610 seconds
+  Import took 0.013229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.194542 seconds.
+  path: Assets/Audio/Cordoba Practice.mp3
+  artifactKey: Guid(86f08c301f914c54aa70532a41cc11f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Cordoba Practice.mp3 using Guid(86f08c301f914c54aa70532a41cc11f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab8d38553ea3a15dcb2ae9096d953bf7') in 0.062988 seconds
+  Import took 0.066382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Audio/The Christmas Song - Johnston Heights Grade 9 Band - Christmas Concert 2017.mp3
+  artifactKey: Guid(8c389d2c1ac453c47a040d4d4065e0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/The Christmas Song - Johnston Heights Grade 9 Band - Christmas Concert 2017.mp3 using Guid(8c389d2c1ac453c47a040d4d4065e0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5947f4013d2a9b154e6592ade457fd6c') in 0.014449 seconds
+  Import took 0.018898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Audio/William Tell Overturn - Grade 10 - Johnston Heights Year-End Concert.mp3
+  artifactKey: Guid(0bde498e940ff6849b4bd8aeb3b8b45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/William Tell Overturn - Grade 10 - Johnston Heights Year-End Concert.mp3 using Guid(0bde498e940ff6849b4bd8aeb3b8b45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '415942e99078a6c68e0be04cf5155192') in 0.012831 seconds
+  Import took 0.016403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.725804 seconds.
+  path: Assets/Materials/Equilateral_Triangle_(PSF).mat
+  artifactKey: Guid(9cb1c8c728a62ad4c82c3555c6f4af9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Equilateral_Triangle_(PSF).mat using Guid(9cb1c8c728a62ad4c82c3555c6f4af9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a00fa44dfdcfce808a09fd680bd4fc38') in 0.026046 seconds
+  Import took 0.029781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.333681 seconds.
+  path: Assets/Materials/Music Materials
+  artifactKey: Guid(134bcf3b911a315439c78418e50b11a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Music Materials using Guid(134bcf3b911a315439c78418e50b11a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57f1cbb610952c805a85e9eb40dd4c0c') in 0.008301 seconds
+  Import took 0.012176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.467289 seconds.
+  path: Assets/Materials/Museum Room Materials
+  artifactKey: Guid(e902fc8a6f0f43c41b9fe9976ad48698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Museum Room Materials using Guid(e902fc8a6f0f43c41b9fe9976ad48698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b39cbd78c7a0b28c742a3029abc20ed') in 0.007615 seconds
+  Import took 0.011855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.093838 seconds.
+  path: Assets/Materials/Museum Room Materials/Gold Plate.mat
+  artifactKey: Guid(6222c0576f7eb9f41998577d052da6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Museum Room Materials/Gold Plate.mat using Guid(6222c0576f7eb9f41998577d052da6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fa67614ec69f7b46a2aa385892adb7') in 0.019486 seconds
+  Import took 0.023722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Materials/Museum Room Materials/Lamp.mat
+  artifactKey: Guid(4e0d5e5e0570e704fad2b307d5b0f4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Museum Room Materials/Lamp.mat using Guid(4e0d5e5e0570e704fad2b307d5b0f4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec94b2391c81e8636d812b558353fb1') in 0.157789 seconds
+  Import took 0.161535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Materials/Museum Room Materials/Museum Stone.mat
+  artifactKey: Guid(5d23de5874c4e7d4abd7dd0389eeca9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Museum Room Materials/Museum Stone.mat using Guid(5d23de5874c4e7d4abd7dd0389eeca9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae438a6c28783dd8a9867364979e280') in 0.029395 seconds
+  Import took 0.034157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Materials/Museum Room Materials/Museum Stone Pathways.mat
+  artifactKey: Guid(3cffc3cc036c49746bcd4c488f5a6969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Museum Room Materials/Museum Stone Pathways.mat using Guid(3cffc3cc036c49746bcd4c488f5a6969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b78a577ebbb2835441f2806106da639') in 0.025722 seconds
+  Import took 0.030093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Materials/Museum Room Materials/Marble Platform.mat
+  artifactKey: Guid(32a9003043ec40e4aac6024c44a58ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Museum Room Materials/Marble Platform.mat using Guid(32a9003043ec40e4aac6024c44a58ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fba64d168e01b58f66d3f5c843b0a6e0') in 0.017841 seconds
+  Import took 0.023365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Materials/Museum Room Materials/Marble Flooring.mat
+  artifactKey: Guid(1073723ddc9f0d443858c4b340929c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Museum Room Materials/Marble Flooring.mat using Guid(1073723ddc9f0d443858c4b340929c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9dea4768d6ef2795d02376ee55fcfc5') in 0.019673 seconds
+  Import took 0.024779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.088265 seconds.
+  path: Assets/Materials/Art Materials/Angel Art.mat
+  artifactKey: Guid(0f2a48a62669077478a9f96f400e5629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Art Materials/Angel Art.mat using Guid(0f2a48a62669077478a9f96f400e5629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fb4aba650354e52f22d66ccf5c45aa') in 0.013537 seconds
+  Import took 0.017371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Materials/Art Materials/Canvas Back.mat
+  artifactKey: Guid(8b43ae477c614d249a2894e253dad205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Art Materials/Canvas Back.mat using Guid(8b43ae477c614d249a2894e253dad205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9985c541f3ab0639a6ef93a1154a9e85') in 0.015040 seconds
+  Import took 0.018491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Materials/Art Materials/Ballet Art.mat
+  artifactKey: Guid(b00abb4d63515f84fa231c5837967e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Art Materials/Ballet Art.mat using Guid(b00abb4d63515f84fa231c5837967e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f6e1f10291e3d886d44c5e6643b7f9') in 0.017719 seconds
+  Import took 0.023043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Materials/Art Materials/Sketch Art.mat
+  artifactKey: Guid(b703cef6998178342b7029ef289ffe11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Art Materials/Sketch Art.mat using Guid(b703cef6998178342b7029ef289ffe11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '127e5ba8246ae9dfb2487e5900c37899') in 0.055074 seconds
+  Import took 0.059625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.651192 seconds.
+  path: Assets/Polybrush Data
+  artifactKey: Guid(7cb35d00409db5e468ed2d5c98b8d890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polybrush Data using Guid(7cb35d00409db5e468ed2d5c98b8d890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdb5f73c32a69623428af4d59013ba0') in 0.007346 seconds
+  Import took 0.012122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.795896 seconds.
+  path: Assets/Polybrush Data/Brush Settings
+  artifactKey: Guid(ba279f0da3d214d4b893ccc5e2597bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polybrush Data/Brush Settings using Guid(ba279f0da3d214d4b893ccc5e2597bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a22e2c5729f50e4d5da0868df0022dc') in 0.007211 seconds
+  Import took 0.012167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068049 seconds.
+  path: Assets/Polybrush Data/Brush Settings/BrushSettings-Default.asset
+  artifactKey: Guid(020b7e1c00f98cf4ea95e8ae0c3a2e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polybrush Data/Brush Settings/BrushSettings-Default.asset using Guid(020b7e1c00f98cf4ea95e8ae0c3a2e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ffca5a4be9fceb8708170c32b9ee0b8') in 0.009662 seconds
+  Import took 0.013869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.500207 seconds.
+  path: Assets/Prefabs/Character Prefabs
+  artifactKey: Guid(2c1a7544bde59ad42b5603fe72b96d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Character Prefabs using Guid(2c1a7544bde59ad42b5603fe72b96d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314c4a14243e83021b1b6b51a6ea37cc') in 0.008068 seconds
+  Import took 0.011975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.752463 seconds.
+  path: Assets/Textures/Theatre Textures/Bonnet Cotton.jpg
+  artifactKey: Guid(f0c4a7c3e8fa9de4dad4488a301378db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Theatre Textures/Bonnet Cotton.jpg using Guid(f0c4a7c3e8fa9de4dad4488a301378db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18011fb20d2a3d0da166078d613427c4') in 0.017940 seconds
+  Import took 0.022405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001996 seconds.
+  path: Assets/Textures/Theatre Textures/Bonnet Cotton.jpg
+  artifactKey: Guid(f0c4a7c3e8fa9de4dad4488a301378db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Theatre Textures/Bonnet Cotton.jpg using Guid(f0c4a7c3e8fa9de4dad4488a301378db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18011fb20d2a3d0da166078d613427c4') in 0.009888 seconds
+  Import took 0.015153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.238049 seconds.
+  path: Assets/Prefabs/Room Prefabs/Platform.prefab
+  artifactKey: Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Room Prefabs/Platform.prefab using Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2668cbe25a1fe7c7e4c7dcebe5a8ce6e') in 0.011318 seconds
+  Import took 0.016421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 255.171790 seconds.
+  path: Assets/Prefabs/Room Prefabs/Platform.prefab
+  artifactKey: Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Room Prefabs/Platform.prefab using Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07153a014c57cdee3ec304f0cd9b71f9') in 0.006361 seconds
+  Import took 0.012578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 247.155277 seconds.
+  path: Assets/Prefabs/Room Prefabs/Platform.prefab
+  artifactKey: Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Room Prefabs/Platform.prefab using Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca1892e160589d8763c95eb7631c83b1') in 0.006126 seconds
+  Import took 0.011972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 255.073632 seconds.
+  path: Assets/Prefabs/Room Prefabs/Platform.prefab
+  artifactKey: Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Room Prefabs/Platform.prefab using Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93c04fcbd58882384bfa87b1815f8326') in 0.005208 seconds
+  Import took 0.010162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 280.910581 seconds.
+  path: Assets/Prefabs/Room Prefabs/Platform.prefab
+  artifactKey: Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Room Prefabs/Platform.prefab using Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fbdca08420e4c8a3e09075992860591') in 0.008172 seconds
+  Import took 0.013726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 246.000667 seconds.
+  path: Assets/Prefabs/Room Prefabs/Platform.prefab
+  artifactKey: Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Room Prefabs/Platform.prefab using Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '794d199325285ed0f1370e1fbb204503') in 0.007210 seconds
+  Import took 0.013488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051190 seconds.
+  path: Assets/Prefabs/Room Prefabs/Platform.prefab
+  artifactKey: Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Room Prefabs/Platform.prefab using Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '794d199325285ed0f1370e1fbb204503') in 0.008287 seconds
+  Import took 0.013821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 249.693161 seconds.
+  path: Assets/Prefabs/Room Prefabs/Platform.prefab
+  artifactKey: Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Room Prefabs/Platform.prefab using Guid(50865a30416cdc940883107b9acfe2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a9fc56e4d997e2c21cc26adcd503bfe') in 0.005445 seconds
+  Import took 0.012915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.957954 seconds.
+  path: Assets/Prefabs/Art Prefabs/Painting Display.prefab
+  artifactKey: Guid(9736a1cc23fb6a64f9a8fa397afa0bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Art Prefabs/Painting Display.prefab using Guid(9736a1cc23fb6a64f9a8fa397afa0bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d44dcb9c624813f1adb6d4ea12c3f2') in 0.006306 seconds
+  Import took 0.012360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.637681 seconds.
+  path: Assets/Prefabs/Art Prefabs/s.prefab
+  artifactKey: Guid(9736a1cc23fb6a64f9a8fa397afa0bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Art Prefabs/s.prefab using Guid(9736a1cc23fb6a64f9a8fa397afa0bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2281dbe21fd4365010bc3b53f2d3acb0') in 0.013172 seconds
+  Import took 0.019391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006263 seconds.
+  path: Assets/Prefabs/Art Prefabs/s.prefab
+  artifactKey: Guid(9736a1cc23fb6a64f9a8fa397afa0bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Art Prefabs/s.prefab using Guid(9736a1cc23fb6a64f9a8fa397afa0bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2281dbe21fd4365010bc3b53f2d3acb0') in 0.009260 seconds
+  Import took 0.014171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.273753 seconds.
+  path: Assets/Prefabs/Art Prefabs/Painting Display.prefab
+  artifactKey: Guid(1ea298d1fbc193d4895adc1e21436639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Art Prefabs/Painting Display.prefab using Guid(1ea298d1fbc193d4895adc1e21436639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22bf1ef2bcb8020532c75710f557eea') in 0.007461 seconds
+  Import took 0.011970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012032 seconds.
+  path: Assets/Prefabs/Art Prefabs/Painting Display.prefab
+  artifactKey: Guid(1ea298d1fbc193d4895adc1e21436639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Art Prefabs/Painting Display.prefab using Guid(1ea298d1fbc193d4895adc1e21436639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22bf1ef2bcb8020532c75710f557eea') in 0.006584 seconds
+  Import took 0.010366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.117914 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Blood Packet
+  artifactKey: Guid(1b2ca9dabd167714e80142c9d757fdc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Blood Packet using Guid(1b2ca9dabd167714e80142c9d757fdc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9b4b74da2d916303da9737df3a3bb40') in 0.007294 seconds
+  Import took 0.011610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.573735 seconds.
+  path: Assets/Prefabs/Theatre Prefabs/Packet Parts
+  artifactKey: Guid(1b2ca9dabd167714e80142c9d757fdc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Theatre Prefabs/Packet Parts using Guid(1b2ca9dabd167714e80142c9d757fdc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce311f37aa8d7652608beb61e164d53') in 0.009883 seconds
+  Import took 0.013605 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
