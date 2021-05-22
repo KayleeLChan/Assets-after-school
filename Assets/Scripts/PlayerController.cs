@@ -61,8 +61,6 @@ public class PlayerController : MonoBehaviour
 
             Vector3 moveDir = Quaternion.Euler(0f, targetAngle, 0f) * Vector3.forward;
             controller.Move(moveDir.normalized * speed * Time.deltaTime);
-         
- 
         }
 
         // Code to manage animation states
@@ -70,19 +68,12 @@ public class PlayerController : MonoBehaviour
         {
             animator.Play("Walk");
             animator.SetTrigger("moveTrigger");
-
-            Debug.Log("Now moving");
         }
         else // No motion
         {
             animator.Play("Idle");
             animator.SetTrigger("idleTrigger");
-            Debug.Log("now idle");
         }
-
-        Debug.Log("Horizontal: " + horizontal);
-        Debug.Log("Vertical: " + vertical);
-
     }
 
     void ApplyGravity()
